@@ -88,7 +88,7 @@ I enjoy bridging research and engineering by transforming cutting-edge AI concep
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,express"/>
 </p>
 
 ## Backend & Databases
@@ -100,7 +100,7 @@ I enjoy bridging research and engineering by transforming cutting-edge AI concep
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,pytorch,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,pytorch"/>
 </p>
 
 ---
@@ -140,13 +140,6 @@ A lightweight Fourier-guided deep learning framework for medical image classific
 | Impact | High-accuracy classification with 1.24M parameters |
 | Repository | Private Research |
 
-### Highlights
-
-- Fourier-guided feature extraction
-- Efficient medical image classification
-- Pneumonia and Tuberculosis datasets
-- Extremely lightweight architecture
-
 </details>
 
 <details>
@@ -165,13 +158,6 @@ A perceptually-guided GAN framework for robust image denoising under multiple re
 | Impact | Human-perception optimized restoration |
 | Repository | Research Work |
 
-### Highlights
-
-- GAN-based denoising
-- Real-world noisy datasets
-- Human visual perception modeling
-- Multi-noise robustness
-
 </details>
 
 <details>
@@ -179,7 +165,7 @@ A perceptually-guided GAN framework for robust image denoising under multiple re
 
 ### Overview
 
-Novel medicinal leaf classification framework combining vein, edge, and color feature extraction with Total Variation guided learning.
+Novel medicinal leaf classification framework with morphological feature extraction with Total Variation guided learning.
 
 | Category | Details |
 |-----------|-----------|
@@ -214,13 +200,6 @@ Advanced image inpainting framework utilizing GANs, CLR optimization, and pretra
 | Security | Extensive Evaluation |
 | Impact | Enhanced Texture Recovery |
 | Repository | Research Project |
-
-### Highlights
-
-- Image restoration
-- Texture reconstruction
-- Perceptual optimization
-- GAN-based enhancement
 
 </details>
 
@@ -328,7 +307,7 @@ Conducted advanced research in image classification and deep learning.
 
 | Recognition | Details |
 |-------------|---------|
-| IIT Kharagpur Vibe Build 2026 | Top 5 among 500+ teams |
+| IIT Kharagpur Vibe Build 2026 | Ranked 5th among 500+ teams |
 | AI Pragati ML Challenge 2026 | Rank 1 |
 | Infosys Global Hackathon | Quarter Finalist |
 | Smart India Hackathon 2025 | National Quarter Finalist |
@@ -338,96 +317,6 @@ Conducted advanced research in image classification and deep learning.
 
 </div>
 
----
-
-# Certifications
-
-### AWS
-
-![](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-PL%2FSQL-F80000?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Engineering-blue?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-### Professional Certifications
-
-![](https://img.shields.io/badge/Deep%20Learning-Infosys%20Springboard-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Artificial%20Intelligence-Infosys%20Springboard-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Data%20Science-Infosys%20Springboard-purple?style=for-the-badge)
-![](https://img.shields.io/badge/NLP-Infosys%20Springboard-purple?style=for-the-badge)
-![](https://img.shields.io/badge/GitHub%20Copilot%20%26%20AI-Udemy-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Full%20Stack%20Development-Udemy-purple?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://geeksforgeeks.org)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank)](https://hackerrank.com)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef)](https://codechef.com)
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renan-Hawladar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Renan-Hawladar&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Hawladar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Renan-Hawladar&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Renan-Hawladar&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Renan-Hawladar/Renan-Hawladar/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 
@@ -463,8 +352,8 @@ Open_To:
 
 <a href="mailto:renanhawladar2003@gmail.com">Gmail</a> •
 <a href="https://linkedin.com/in/renan-h">LinkedIn</a> •
-<a href="https://github.com/Renan-Hawladar">GitHub</a> •
-<a href="https://portfolio.com">Portfolio</a>
+<a href="https://github.com/Renan-Hawladar">GitHub</a>
+<!-- <a href="https://portfolio.com">Portfolio</a> -->
 
 </div>
 
