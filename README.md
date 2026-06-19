@@ -7,10 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Researcher;Machine+Learning+Engineer;Generative+AI+%7C+Computer+Vision;Deep+Learning+%7C+GANs+%7C+Medical+AI;Building+Efficient+AI+Systems+for+Real-World+Impact"/>
 
 <br/><br/>
+</div>
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Machine+Learning+Engineer;Generative+AI+%7C+Computer+Vision+%7C+Deep+Learning;Building+Efficient+and+Scalable+AI+Systems"/>
-
 <br>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE-MCKVIE-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
