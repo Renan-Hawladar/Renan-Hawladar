@@ -7,33 +7,65 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Researcher;Machine+Learning+Engineer;Generative+AI+%7C+Computer+Vision;Deep+Learning+%7C+GANs+%7C+Medical+AI;Building+Efficient+AI+Systems+for+Real-World+Impact"/>
 
 <br/><br/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Machine+Learning+Engineer;Generative+AI+%7C+Computer+Vision+%7C+Deep+Learning;Building+Efficient+and+Scalable+AI+Systems"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/B.Tech%20CSE-MCKVIE-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Research%20Intern-Jadavpur%20University-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Computer%20Vision-8B5CF6?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:renanhawladar2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Renan-Hawladar">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Renan-Hawladar&label=PROFILE+VIEWS&style=for-the-badge&color=8B5CF6"/>
+
+<img src="https://img.shields.io/github/followers/Renan-Hawladar?label=FOLLOWERS&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br><br>
 
 <table>
 <tr>
 <td align="center">
-
-🎓 B.Tech CSE @ MCKVIE
-
+<b>🎓 Education</b><br>
+B.Tech CSE
 </td>
+
 <td align="center">
-
-🔬 Research Intern @ Jadavpur University
-
+<b>🔬 Research</b><br>
+Generative AI & CV
 </td>
+
 <td align="center">
-
-🏆 Rank 1 — AI Pragati ML Challenge
-
+<b>🏆 Achievement</b><br>
+AI Pragati Rank #1
 </td>
+
 <td align="center">
-
-📄 4 Active Research Manuscripts
-
+<b>📄 Research Work</b><br>
+4 Active Manuscripts
 </td>
 </tr>
 </table>
----
 
+</div>
 # About Me
 
 I am a Computer Science undergraduate, AI researcher, and software engineer focused on building efficient, scalable, and impactful intelligent systems.
