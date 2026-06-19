@@ -56,7 +56,7 @@ My primary research interests span:
 - GAN Architectures
 - Efficient Neural Networks
 
-Currently conducting Generative AI research at **CMATER Laboratory, Jadavpur University**, focusing on advanced Text-to-Image generation systems and modern GAN-based architectures.
+Currently conducting Generative AI research at **CMATER Laboratory, Jadavpur University**, as a research intern focusing on advanced Text-to-Image generation systems and modern GAN-based architectures.
 
 I enjoy bridging research and engineering by transforming cutting-edge AI concepts into production-ready software products.
 
