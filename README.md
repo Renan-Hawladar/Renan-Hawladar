@@ -8,42 +8,30 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20Researcher-Jadavpur%20University-6d28d9?style=for-the-badge)
-![](https://img.shields.io/badge/Deep%20Learning-Specialist-4c1d95?style=for-the-badge)
-![](https://img.shields.io/badge/Generative%20AI-Research-purple?style=for-the-badge)
+<table>
+<tr>
+<td align="center">
 
-<br/>
+🎓 B.Tech CSE @ MCKVIE
 
-![](https://img.shields.io/badge/Location-India-312e81?style=flat-square)
-![](https://img.shields.io/badge/Open%20to-Research%20Collaborations-7c3aed?style=flat-square)
+</td>
+<td align="center">
 
-<br/><br/>
+🔬 Research Intern @ Jadavpur University
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</td>
+<td align="center">
 
-<a href="https://linkedin.com/in/renan-h">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🏆 Rank 1 — AI Pragati ML Challenge
 
-<a href="mailto:renanhawladar2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</td>
+<td align="center">
 
-<a href="https://github.com/Renan-Hawladar">
-<img src="https://img.shields.io/badge/GitHub-Profile-312e81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+📄 4 Active Research Manuscripts
 
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=Renan-Hawladar&style=flat-square&color=6d28d9)
-![](https://img.shields.io/github/followers/Renan-Hawladar?style=flat-square&color=6d28d9)
-![](https://img.shields.io/github/stars/Renan-Hawladar?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=6d28d9)
-
-</div>
-
+</td>
+</tr>
+</table>
 ---
 
 # About Me
