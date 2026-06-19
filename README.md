@@ -40,32 +40,8 @@
 <img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
-
-<table>
-<tr>
-<td align="center">
-<b>🎓 Education</b><br>
-B.Tech CSE
-</td>
-
-<td align="center">
-<b>🔬 Research</b><br>
-Generative AI & CV
-</td>
-
-<td align="center">
-<b>🏆 Achievement</b><br>
-AI Pragati Rank #1
-</td>
-
-<td align="center">
-<b>📄 Research Work</b><br>
-4 Active Manuscripts
-</td>
-</tr>
-</table>
-
 </div>
+
 # About Me
 
 I am a Computer Science undergraduate, AI researcher, and software engineer focused on building efficient, scalable, and impactful intelligent systems.
